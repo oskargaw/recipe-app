@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<RecipeListItem /> should render correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-hBUSln czpzSA"
+  >
+    <div
+      class="sc-fotOHu fOFNvG"
+    >
+      <h1>
+        No recipes here!
+      </h1>
+      <button
+        class="sc-bdvvtL fEPyxY"
+      >
+        Add recipe
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;

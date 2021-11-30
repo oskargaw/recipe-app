@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<FormInput /> should render correctly 1`] = `
+<DocumentFragment>
+  <label
+    class="sc-bdvvtL gJVqff"
+    for="test"
+  >
+    test
+  </label>
+  <input
+    class="sc-gsDKAQ dJjuOV"
+    placeholder="test"
+    type="text"
+  />
+  <div
+    class="sc-dkPtRN dNQVQE"
+  >
+    test
+  </div>
+</DocumentFragment>
+`;
